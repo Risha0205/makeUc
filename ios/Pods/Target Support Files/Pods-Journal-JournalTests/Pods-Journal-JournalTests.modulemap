@@ -1,0 +1,6 @@
+module Pods_Journal_JournalTests {
+  umbrella header "Pods-Journal-JournalTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
